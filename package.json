@@ -1,0 +1,20 @@
+{
+  "name": "vscode-setup",
+  "version": "1.0.0",
+  "description": "stylelint prettier setup",
+  "main": "index.js",
+  "repository": "https://github.com/bruteForceBilly/vscode-setup.git",
+  "author": "bruteForceBilly <bruteForceBilly@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.1.2",
+    "prettier-stylelint": "^0.4.2",
+    "stylelint": "^13.7.2",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
